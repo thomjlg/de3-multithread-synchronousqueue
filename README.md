@@ -7,5 +7,7 @@
   - échange d'un event entre un producer et un consumer
 - SynchrnonousQueueTwo
   - échange de deux event entre un producer et un consumer
-
-© JAULGEY Thomas - DE3
+- SynchronousQueueTwoConsumers
+  - un produceur transmet 2 events à 2 consumers
+    <br /><br />
+#### © JAULGEY Thomas - DE3
