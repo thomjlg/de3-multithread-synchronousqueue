@@ -1,8 +1,8 @@
 import java.util.concurrent.SynchronousQueue; 
 
-/** * Java Program to solve Producer Consumer problem using SynchronousQueue. A 
+/** * Java Program to solve Producer Consumer problem using SynchronousQueue. A
  * * call to put() will block until there is a corresponding thread to take() that * element. 
- * * @author Javin Paul */ 
+ * * adapted from @author Javin Paul */
 
 public class SynchronousQueueNull{
      public static void main(String args[]) { 
