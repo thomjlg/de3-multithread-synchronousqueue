@@ -8,4 +8,4 @@
 - SynchrnonousQueueTwo
   - échange de deux event entre un producer et un consumer
 
-© JAULGEY Thomas - PERRIER Antoine - TIHIANINE Yanis
+© JAULGEY Thomas - DE3
