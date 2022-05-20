@@ -45,7 +45,7 @@ public class SynchronousQueueTwoConsumers{
                 String event2 = "TEST2";
                 try { 
                     queue.put(event2); // thread will block here
-                    System.out.printf("[%s] published event : %s %n", Thread.currentThread().getName(), event);
+                    System.out.printf("[%s] published event : %s %n", Thread.currentThread().getName(), event2);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
